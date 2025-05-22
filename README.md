@@ -2,3 +2,5 @@
 basic program that gives random 2digit mental maths questions 
 user score is stored in sql database
 online leaderboard option
+
+THIS PROJECT IS NOT FINISHED YET, ITS STILL UNDER DEVELOPMENT
